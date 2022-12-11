@@ -122,10 +122,3 @@ while True:
                     turn = 'Player 1'
     if not replay():
         break
-
-
-# In[ ]:
-
-
-
-
